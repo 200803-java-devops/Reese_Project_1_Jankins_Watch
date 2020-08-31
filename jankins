@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar C:/Users/12ees/Documents/RevatureTrainingProjects/project1-watch/local_repo_watcher/target/local_repo_watcher-1.0-SNAPSHOT.jar $1
+java -jar target/local_repo_watcher-1.0-SNAPSHOT.jar $1
