@@ -1,4 +1,4 @@
-package project1.reesebenson.ProcessUtils;
+package jankins;
 
 public class Pair<T1, T2> {
     private T1 key;
